@@ -1,9 +1,9 @@
-# Digesting API data using App Script.
+# Digesting API data using Google App Script and printing on sheet.
 
-- **1. Create a fresh google sheet file**
+ **1. Create a fresh google sheet file**
 - on tools click edit script
 
-- **2. On the appscript write the script to digest the data**
+**2. On the appscript write the script to digest the data**
 
 ```
 function myFunction() {
