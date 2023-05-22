@@ -18,8 +18,6 @@ function myFunction() {
   var password = result.results[0].login.password
   var picture = result.results[0].picture.large
 
-
-
 var sheet = SpreadsheetApp.getActiveSheet()
 
 sheet.clear() // clear initial prints
