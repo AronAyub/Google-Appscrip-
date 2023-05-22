@@ -1,9 +1,9 @@
 # Digesting API data using App Script.
 
-- **Create a fresh google sheet file**
+- **1. Create a fresh google sheet file**
 - on tools click edit script
 
-- **On the appscript write the script to digest the data**
+- **2. On the appscript write the script to digest the data**
 
 ```
 function myFunction() {
