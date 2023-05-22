@@ -39,6 +39,5 @@ for(var i=0; i<result.results.length; i++){
 
 }
 
-
 }
 ```
